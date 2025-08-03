@@ -279,6 +279,10 @@ select{
         height: 20vh;
         width: 100%;
     }
+
+    footer{
+        display: none !important;
+    }
 }
 
 
@@ -286,4 +290,20 @@ select{
     width: 100% !important;
     height: 200px !important;
     object-fit: cover !important;
+}
+
+footer{
+    background-color: #F2F4F5;
+}
+
+.sotterdiv{
+    background-color: #F2F4F5;
+}
+
+.lastfooter{
+    background-color: #002F34;
+}
+
+.lastfooter p{
+    color: #F2F4F5;
 }
